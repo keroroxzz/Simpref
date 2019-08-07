@@ -7,13 +7,8 @@ For those who do not have enough screen space.
   Automatically hide.
   Automatically focus back.
   Easy to use.
-  
-url: https://www.youtube.com/watch?v=s3oAvTPD62Y
 
 Newest Version : Alpha 1.0.2
-
-Download (MEGA)
-	Win 32/64 https://mega.nz/#!2VhThaxB!BdVC4ClnvFdGWDjICBrigswOGMwMtM95AeYep5bnZQA
 
 Add
 	Noncontinuous rotation
