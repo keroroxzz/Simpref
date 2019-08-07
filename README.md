@@ -8,9 +8,12 @@ For those who do not have enough screen space.
   Automatically focus back.
   Easy to use.
   
-https://www.youtube.com/watch?v=s3oAvTPD62Y
+url: https://www.youtube.com/watch?v=s3oAvTPD62Y
 
 Newest Version : Alpha 1.0.2
+
+Download (MEGA)
+	Win 32/64 https://mega.nz/#!2VhThaxB!BdVC4ClnvFdGWDjICBrigswOGMwMtM95AeYep5bnZQA
 
 Add
 	Noncontinuous rotation
@@ -23,13 +26,3 @@ Fix
 	Adjust the button's background goes transparent when dragging under adjusting mode
 	Wrong window's state when activated
 	Accidentally  activate the window when using explorer
-
---Version: Alpha - 1.0.1
-
-Add
-	Opacity setting
-	Update MessageBox
-
-Fix
-	Folder loading (some filename extension would not be scanned)
-	Web image drag (some filename extension would not be accepted)
