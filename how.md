@@ -1,7 +1,3 @@
----
-title :How To Use    
----
-
 <html lang="{{ site.lang | default: "en-US" }}">
   <body>
     <main id="contents" class="main-content" role="main">
