@@ -26,11 +26,13 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">A simple application for drawing reference</h2>
       <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      <a href="{{site.baseurl}}/how" class="btn">How To Use</a>
-      <a href="https://mega.nz/#!2VhThaxB!BdVC4ClnvFdGWDjICBrigswOGMwMtM95AeYep5bnZQA" class="btn">Download Alpha1.0.2 Win(32/64)</a>
+      <a href="{{site.baseurl}}" class="btn">MainPage</a>
     </header>
+    
+      <a href="{{site.baseurl}}" class="btn">MainPage</a>
 
     <main id="content" class="main-content" role="main">
+      <a href="{{site.baseurl}}" class="btn">MainPage2</a>
       {{ content }}
       <footer class="site-footer">
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
