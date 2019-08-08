@@ -15,7 +15,7 @@
 <p></p>
 <p></p>
 - Adjust Image
-<p>    Click the left button of the middle section</p>
+<p>    Click the left button in the middle section.</p>
 <p>    The background of the button will turn red, and adjusting mode start.</p>
 <p>    You can simply drag the image by Left-Click.</p>
 <p>    Or rotate and scale it by Left-Click + CTRL or ALT or SHIFT.</p>
