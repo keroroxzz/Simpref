@@ -1,5 +1,5 @@
 
-<h1 class="project-name">Alpha 1.0.2  - 2019/8/7</h1>
+<h1 class="project-name">Alpha 1.0.2</h1>- 2019/8/7
 
 <a href="https://mega.nz/#!2VhThaxB!BdVC4ClnvFdGWDjICBrigswOGMwMtM95AeYep5bnZQA" class="btn" style = "background-color:#157878">Download</a>
 
@@ -10,7 +10,7 @@
 	ToolBarHeight setting
 
 #Fix
-	Flickering when resizing with grip
-	Adjust the button's background goes transparent when dragging under adjusting mode
-	Wrong window's state when activated
-	Accidentally  activate the window when using explorer
+Flickering when resizing with grip
+Adjust the button's background goes transparent when dragging under adjusting mode
+Wrong window's state when activated
+Accidentally  activate the window when using explorer
