@@ -23,8 +23,7 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">A simple application for drawing reference</h2>
-      <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/s3oAvTPD62Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <a href="{{site.baseurl}}" class="btn">MainPage</a>
     </header>
     
