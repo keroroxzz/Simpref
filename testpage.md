@@ -4,4 +4,25 @@
       <a href="{{site.baseurl}}" class="btn">MainPage</a>
 </header>
 
+- Drag Files
+<p>    You can simply drag fils and drop them directily.</p>
+<p>    It also supports dropping one folder</p>
+<p>    Extension Support : jpg,jpeg,png,bmp,tif,tiff</p>
+<p></p>
+<p></p>
+- Switch Image
+<p>    Just simply click the arrow-like buttons to switch between images</p>
+<p>    And the mark on the left will show the index and total numbers of images loaded.</p>
+<p></p>
+<p></p>
+- Adjust Image
+<p>    Click the left button of the middle section</p>
+<p>    The background of the button will turn red, and adjusting mode start.</p>
+<p>    You can simply drag the image by Left-Click.</p>
+<p>    Or rotate and scale it by Left-Click + CTRL or ALT or SHIFT.</p>
+<p>    Right-Click can do so, too.</p>
+<p>    ##Adjust mode would be cancel by move your mouse outside the window.##</p>
+<p>    ##If mouse is outside due to adjusting. You got 1s to come back, or adjust mode will be canceled.##</p>
+<p></p>
+
 <a href="{{site.baseurl}}" class="btn" style = "background-color:#157878">MainPage</a>
