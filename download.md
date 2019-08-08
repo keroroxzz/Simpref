@@ -11,6 +11,6 @@
 <p></p>
 - Fix
 <p> </p>1.Flickering when resizing with grip
-<p> </p>2.Adjust the button's background goes transparent when dragging under adjusting mode
+<p> </p>2.Adjust button's background goes transparent when dragging under adjusting mode
 <p> </p>3.Wrong window's state when activated
 <p> </p>4.Accidentally  activate the window when using explorer
