@@ -20,8 +20,10 @@
 <p>    You can simply drag the image by Left-Click.</p>
 <p>    Or rotate and scale it by Left-Click + CTRL or ALT or SHIFT.</p>
 <p>    Right-Click can do so, too.</p>
-<p>    ##Adjust mode would be cancel by move your mouse outside the window.##</p>
+<p>    ##Adjust mode would be cancel by moving the mouse outside the window.##</p>
 <p>    ##If mouse is outside due to adjusting. You got 1s to come back, or adjust mode will be canceled.##</p>
+
+<p>More in the video above.</p>
 
 
 <a href="{{site.baseurl}}" class="btn" style = "background-color:#157878">MainPage</a>
