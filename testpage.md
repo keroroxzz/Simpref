@@ -28,7 +28,7 @@
       <a href="{{site.baseurl}}" class="btn">MainPage</a>
     </header>
     
-      <span class="site-footer-owner"><a href="{{site.baseurl}}" class="btn">MainPage</a>.</span>
+      <span style="border:2px red solid;font-size:12px;background-color:yellow;"><a href="{{site.baseurl}}" class="btn">MainPage</a>.</span>
 
     <main id="content" class="main-content" role="main">
       <a href="{{site.baseurl}}" class="btn">MainPage2</a>
