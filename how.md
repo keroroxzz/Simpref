@@ -1,8 +1,5 @@
-<header class="page-header" role="banner">
-      <h1 class="project-name">Just As Follow</h1>
+<h1 class="project-name">Just As Follow</h1>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/s3oAvTPD62Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <a href="{{site.baseurl}}" class="btn">MainPage</a>
-</header>
 
 - Drag Files
 <p>    You can simply drag fils and drop them directily.</p>
@@ -23,6 +20,6 @@
 <p>    Right-Click can do so, too.</p>
 <p>    ##Adjust mode would be cancel by move your mouse outside the window.##</p>
 <p>    ##If mouse is outside due to adjusting. You got 1s to come back, or adjust mode will be canceled.##</p>
-<p></p>
+
 
 <a href="{{site.baseurl}}" class="btn" style = "background-color:#157878">MainPage</a>
