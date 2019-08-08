@@ -4,4 +4,4 @@
       <a href="{{site.baseurl}}" class="btn">MainPage</a>
 </header>
 
-<a href="{{site.baseurl}}" class="btn" style = "background-color:black">MainPage</a>
+<a href="{{site.baseurl}}" class="btn" style = "background-color:#157878">MainPage</a>
