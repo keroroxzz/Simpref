@@ -4,7 +4,7 @@
 <a href="https://mega.nz/#!2VhThaxB!BdVC4ClnvFdGWDjICBrigswOGMwMtM95AeYep5bnZQA" class="btn" style = "background-color:#157878">Download</a>
 
 - New
--- Noncontinuous rotation
+\r\nNoncontinuous rotation
 -- Waiting for the mouse to go back after adjusting outside the window
 -- MouseRight to drag the window with buttons(expect screenshot button)
 -- ToolBarHeight setting
