@@ -1,7 +1,7 @@
 
 <h1 class="project-name">Alpha 1.0.2</h1>- 2019/8/7
 
-<a href="https://mega.nz/#!2VhThaxB!BdVC4ClnvFdGWDjICBrigswOGMwMtM95AeYep5bnZQA" class="btn" style = "background-color:#157878">Download</a>
+<a href="https://mega.nz/#!2VhThaxB!BdVC4ClnvFdGWDjICBrigswOGMwMtM95AeYep5bnZQA" class="btn" style = "background-color:#157878">Download Win 32/64</a>
 
 - New
 <p> </p>1.Noncontinuous rotation
