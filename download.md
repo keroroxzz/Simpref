@@ -14,3 +14,5 @@
 <p> </p>2.Adjust button's background goes transparent when dragging under adjusting mode
 <p> </p>3.Wrong window's state when activated
 <p> </p>4.Accidentally  activate the window when using explorer
+
+<a href="{{site.baseurl}}" class="btn" style = "background-color:#157878">MainPage</a>
