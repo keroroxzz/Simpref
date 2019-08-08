@@ -20,7 +20,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
@@ -29,7 +28,7 @@
       <a href="{{site.baseurl}}" class="btn">MainPage</a>
     </header>
     
-      <a href="{{site.baseurl}}" class="btn">MainPage</a>
+      <span class="site-footer-owner"><a href="{{site.baseurl}}" class="btn">MainPage</a>.</span>
 
     <main id="content" class="main-content" role="main">
       <a href="{{site.baseurl}}" class="btn">MainPage2</a>
