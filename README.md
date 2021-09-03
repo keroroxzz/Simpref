@@ -13,3 +13,7 @@ For those who do not have enough screen space.
 -Easy to use.
 	
 Newest Version : Alpha 1.0.2
+
+# Download
+
+https://keroroxzz.github.io/Simpref/
