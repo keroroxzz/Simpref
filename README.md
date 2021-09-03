@@ -3,6 +3,8 @@ A simple application for drawing reference
 
 For those who do not have enough screen space.
 
+[![Video](https://img.youtube.com/vi/s3oAvTPD62Y/0.jpg)](https://www.youtube.com/watch?v=s3oAvTPD62Y)
+
 # Features:
 -Automatically hide.
 
